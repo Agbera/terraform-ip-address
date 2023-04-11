@@ -1,7 +1,7 @@
 #readme
 provider "google" {}
 resource "google_compute_global_address" "default" {
-  project = "olagt-380915"
+  project = "my-project-1-383207"
   name    = "global-server-ip"
  
   
